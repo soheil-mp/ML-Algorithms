@@ -1,5 +1,3 @@
 # Logistic Regression
 
----
-
 DESCRIPTION.
